@@ -5,3 +5,5 @@ We are back on the master branch
 
 I have added a hotfix!
 This is very important code!
+
+Adding changes from a different user
